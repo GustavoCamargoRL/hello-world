@@ -1,2 +1,2 @@
 # hello-world
-tutorial
+tutorial de como usar no DALE esse trab
